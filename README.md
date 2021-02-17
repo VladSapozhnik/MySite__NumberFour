@@ -1,1 +1,1 @@
-# MySite__NumberFour
+# SCSS/Mobile first/Slick Slider/jQuery
