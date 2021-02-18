@@ -1,1 +1,1 @@
-# SCSS/Mobile first/Slick Slider/jQuery
+# SCSS/Mobile first/Slick Slider/jQuery/БЭМ
